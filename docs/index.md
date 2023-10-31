@@ -1,5 +1,5 @@
 # This is my Website!
 
-**Here goes my explanation of this website.**
+**FOSS class 2023**
 
-This is a practice for the FOSS class.
+This is a practice for biulding a website using GitHub.
