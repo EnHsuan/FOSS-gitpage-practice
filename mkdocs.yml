@@ -52,8 +52,9 @@ icon:
 # each is a website button linking to a page or a file
 nav:
 - Home: index.md
-- Code: code.md
-- CV: cv for FOSS 2023.pdf
+- Data Managemen Plan: Data_Management_Plan.md
+- Governance & Operations: Governance_Operations.md
+- Personal Info: cv for FOSS 2023.pdf
 
 # Extra Plugins
 plugins:
