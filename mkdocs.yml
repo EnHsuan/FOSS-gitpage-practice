@@ -52,10 +52,13 @@ favicon: material/cogs
 # each is a website button linking to a page or a file
 nav:
   - Home:
-    - 'Home': index.md
-    - 'Personal Info': cv for FOSS 2023.pdf
+    - Home: index.md
+    - Personal Info: cv for FOSS 2023.pdf
   - Data Managemen Plan: Data_Management_Plan.md
   - Governance & Operations: Governance_Operations.md
+  - Codebase:
+      Installation and Requirements: installation.md
+      User Manual: manual.md
 
 # Theme Extras
 extra_css:
