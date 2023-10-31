@@ -18,8 +18,8 @@ highlightjs: true
 font:
     text: Roboto
     code: Regular
-palette:
-    scheme: default
+#palette:
+#    scheme: default
 
 # Features  
 features:
@@ -55,6 +55,10 @@ nav:
 - Data Managemen Plan: Data_Management_Plan.md
 - Governance & Operations: Governance_Operations.md
 - Personal Info: cv for FOSS 2023.pdf
+
+# Theme Extras
+extra_css:
+  - stylesheets/extra.css
 
 # Extra Plugins
 plugins:
@@ -100,5 +104,3 @@ markdown_extensions:
 - pymdownx.tasklist:
     custom_checkbox: true
 - pymdownx.tilde
-extra_css:
-  - stylesheets/extra.css
