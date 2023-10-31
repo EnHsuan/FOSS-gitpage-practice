@@ -13,9 +13,9 @@ copyright: 'Copyright &copy; 2023 - 2024'
 
 # Configuration
 theme:
-    name: material
-highlightjs: true
-font:
+  name: material
+  highlightjs: true
+  font:
     text: Roboto
     code: Regular
 #palette:
@@ -33,7 +33,7 @@ features:
 
 # 404 page
 static_templates:
-    - 404.html
+  - 404.html
 
 # Search feature
 include_search_page: false
@@ -42,19 +42,19 @@ search_index_only: true
 # Palette and theme (uses personalized colours)
 language: en
 palette:
-    primary: custom
-    accent: custom
+  primary: custom
+  accent: custom
 icon:
-    logo: material/cogs
-    favicon: material/cogs
+  logo: material/cogs
+favicon: material/cogs
 
 # Page tree
 # each is a website button linking to a page or a file
 nav:
-- Home: index.md
-- Data Managemen Plan: Data_Management_Plan.md
-- Governance & Operations: Governance_Operations.md
-- Personal Info: cv for FOSS 2023.pdf
+  - Home: index.md
+  - Data Managemen Plan: Data_Management_Plan.md
+  - Governance & Operations: Governance_Operations.md
+  - Personal Info: cv for FOSS 2023.pdf
 
 # Theme Extras
 extra_css:
@@ -66,8 +66,8 @@ plugins:
     - mkdocstrings
     - git-revision-date
     - mkdocs-jupyter:
-        include_source: True
-        ignore_h1_titles: True
+          include_source: True
+          ignore_h1_titles: True
 
 # Extensions (leave as is)
 markdown_extensions:
@@ -100,6 +100,11 @@ markdown_extensions:
     repo: mkdocs-material
 - pymdownx.mark
 - pymdownx.smartsymbols
+- pymdownx.superfences:
+    custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
 - pymdownx.tabbed
 - pymdownx.tasklist:
     custom_checkbox: true
