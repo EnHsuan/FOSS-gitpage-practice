@@ -53,7 +53,7 @@ icon:
 nav:
 - Home: index.md
 - Code: code.md
-- CV: cv.pdf
+- CV: cv for FOSS 2023.pdf
 
 # Extra Plugins
 plugins:
