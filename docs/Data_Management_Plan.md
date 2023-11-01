@@ -2,14 +2,14 @@
 
 ### Table of Contents
 
-1. [1. Data Description](#1.-data-description)
-2. [Data Collection](#data-collection)
-3. [Data Storage and Backup](#data-storage-and-backup)
-4. [Data Organization and Documentation](#data-organization-and-documentation)
-5. [Data Preservation and Long-Term Access](#data-preservation-and-long-term-access)
-6. [Data Sharing and Access](#data-sharing-and-access)
-7. [Data Ethics and Legal Compliance](#data-ethics-and-legal-compliance)
-8. [Roles and Responsibilities](#roles-and-responsibilities)
+1. [Data Description](#1-data-description)
+2. [Data Collection](#2-data-collection)
+3. [Data Storage and Backup](#3-data-storage-and-backup)
+4. [Data Organization and Documentation](#4-data-organization-and-documentation)
+5. [Data Preservation and Long-Term Access](#5-data-preservation-and-long-term-access)
+6. [Data Sharing and Access](#6-data-sharing-and-access)
+7. [Data Ethics and Legal Compliance](#7-data-ethics-and-legal-compliance)
+8. [Roles and Responsibilities](#8-roles-and-responsibilities)
 9. [Budget and Resources](#9-budget-and-resources)
 
 ## 1. Data Description
