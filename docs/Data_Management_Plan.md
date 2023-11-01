@@ -10,7 +10,7 @@
 6. [Data Sharing and Access](#data-sharing-and-access)
 7. [Data Ethics and Legal Compliance](#data-ethics-and-legal-compliance)
 8. [Roles and Responsibilities](#roles-and-responsibilities)
-9. [Budget and Resources](#budget-and-resources)
+9. [9. Budget and Resources](#9.-budget-and-resources)
 
 ## 1. Data Description
 We will collect regulatory toxicity value information from chemicals on the Superfund priority list to conduct probabilistic risk assessments. The data will include the following: 
