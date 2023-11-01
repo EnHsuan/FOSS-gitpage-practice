@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-1. [Data Description](#data-description)
+1. [1. Data Description](#1.-data-description)
 2. [Data Collection](#data-collection)
 3. [Data Storage and Backup](#data-storage-and-backup)
 4. [Data Organization and Documentation](#data-organization-and-documentation)
