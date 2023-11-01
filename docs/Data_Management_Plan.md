@@ -2,17 +2,15 @@
 
 ### Table of Contents
 
-1. [Data Description](## 1. Data Description
-    - [Our Team](#our-team)
-        - [Organizational Structure](#organizational-structure)
-2. [Operations](#operations)
-    - [Communications](#communications)
-    - [Procedures](#procedures)
-3. [Community Practices](#community-practices)
-    - [Open Science Commitment](#open-science-commitment)
-    - [Diversity Statement](#diversity-statement)
-    - [Code of Conduct](#code-of-conduct)
-4. [Attribution, Authorship, and Ownership](#attribution-authorship-and-ownership)
+1. [Data Description](#data-description)
+2. [Data Collection](#data-collection)
+3. [Data Storage and Backup](#data-storage-and-backup)
+4. [Data Organization and Documentation](#data-organization-and-documentation)
+5. [Data Preservation and Long-Term Access](#data-preservation-and-long-term-access)
+6. [Data Sharing and Access](#data-sharing-and-access)
+7. [Data Ethics and Legal Compliance](#data-ethics-and-legal-compliance)
+8. [Roles and Responsibilities](#roles-and-responsibilities)
+9. [Budget and Resources](#budget-and-resources)
 
 ## 1. Data Description
 We will collect regulatory toxicity value information from chemicals on the Superfund priority list to conduct probabilistic risk assessments. The data will include the following: 
